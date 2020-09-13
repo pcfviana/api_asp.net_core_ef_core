@@ -14,6 +14,9 @@ namespace ProductCatalog
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc(options => options.EnableEndpointRouting = false);
+            services.AddResponseCompression();
+
+
             services.AddScoped<StoreDataContext, StoreDataContext>();
             services.AddTransient<ProductRepository, ProductRepository>();
         }
@@ -25,8 +28,9 @@ namespace ProductCatalog
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            
             app.UseMvc();
+            app.UseResponseCompression();
         }
     }
 }

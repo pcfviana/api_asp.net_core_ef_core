@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WxhyvQAo6W8L7Cjzi+YgAP2AgVe3gKqiGb44mo+ylz5ID6pzmFamp5lfC1prdX8uRNLrKxyITOLypi/Zp2+o8g==",
+  "dgSpecHash": "RxdP0ZRjnG3BQlhZEdFkj0GRQkpmsbSofVOAeor70B2WyfCogwIy9sO93dZYJbEtck67Nj/dryWd9o6duHl2Cg==",
   "success": true,
   "projectFilePath": "/Users/pcfviana/Documents/Repos/api_asp.net_core_ef_core/ProductCatalog/ProductCatalog.csproj",
   "expectedPackageFiles": [
@@ -43,6 +43,7 @@
     "/Users/pcfviana/.nuget/packages/microsoft.aspnetcore.razor.language/2.2.0/microsoft.aspnetcore.razor.language.2.2.0.nupkg.sha512",
     "/Users/pcfviana/.nuget/packages/microsoft.aspnetcore.razor.runtime/2.2.0/microsoft.aspnetcore.razor.runtime.2.2.0.nupkg.sha512",
     "/Users/pcfviana/.nuget/packages/microsoft.aspnetcore.responsecaching.abstractions/2.2.0/microsoft.aspnetcore.responsecaching.abstractions.2.2.0.nupkg.sha512",
+    "/Users/pcfviana/.nuget/packages/microsoft.aspnetcore.responsecompression/2.0.1/microsoft.aspnetcore.responsecompression.2.0.1.nupkg.sha512",
     "/Users/pcfviana/.nuget/packages/microsoft.aspnetcore.routing/2.2.0/microsoft.aspnetcore.routing.2.2.0.nupkg.sha512",
     "/Users/pcfviana/.nuget/packages/microsoft.aspnetcore.routing.abstractions/2.2.0/microsoft.aspnetcore.routing.abstractions.2.2.0.nupkg.sha512",
     "/Users/pcfviana/.nuget/packages/microsoft.aspnetcore.webutilities/2.2.0/microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
