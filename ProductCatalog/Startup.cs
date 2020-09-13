@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using ProductCatalog.Data;
+using ProductCatalog.Repositories;
 
 namespace ProductCatalog
 {
@@ -14,6 +15,7 @@ namespace ProductCatalog
         {
             services.AddMvc(options => options.EnableEndpointRouting = false);
             services.AddScoped<StoreDataContext, StoreDataContext>();
+            services.AddTransient<ProductRepository, ProductRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
