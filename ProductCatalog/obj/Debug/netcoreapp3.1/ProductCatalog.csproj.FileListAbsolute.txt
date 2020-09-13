@@ -72,7 +72,6 @@
 /Users/pcfviana/Documents/Repos/api_asp.net_core_ef_core/ProductCatalog/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
 /Users/pcfviana/Documents/Repos/api_asp.net_core_ef_core/ProductCatalog/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
 /Users/pcfviana/Documents/Repos/api_asp.net_core_ef_core/ProductCatalog/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
-/Users/pcfviana/Documents/Repos/api_asp.net_core_ef_core/ProductCatalog/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
 /Users/pcfviana/Documents/Repos/api_asp.net_core_ef_core/ProductCatalog/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
 /Users/pcfviana/Documents/Repos/api_asp.net_core_ef_core/ProductCatalog/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
 /Users/pcfviana/Documents/Repos/api_asp.net_core_ef_core/ProductCatalog/bin/Debug/netcoreapp3.1/dotnet-ef.dll
@@ -129,3 +128,4 @@
 /Users/pcfviana/Documents/Repos/api_asp.net_core_ef_core/ProductCatalog/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
 /Users/pcfviana/Documents/Repos/api_asp.net_core_ef_core/ProductCatalog/obj/Debug/netcoreapp3.1/ProductCatalog.RazorAssemblyInfo.cache
 /Users/pcfviana/Documents/Repos/api_asp.net_core_ef_core/ProductCatalog/obj/Debug/netcoreapp3.1/ProductCatalog.RazorAssemblyInfo.cs
+/Users/pcfviana/Documents/Repos/api_asp.net_core_ef_core/ProductCatalog/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
