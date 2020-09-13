@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "txqoE5dnT2n13RUwc+QTd9dqPsQqpRK5Wcow4gqOUNHncNsc0mOiJslDml+m+Vpdso5NvAFmgcrvQFP6ImbjCA==",
+  "dgSpecHash": "WxhyvQAo6W8L7Cjzi+YgAP2AgVe3gKqiGb44mo+ylz5ID6pzmFamp5lfC1prdX8uRNLrKxyITOLypi/Zp2+o8g==",
   "success": true,
   "projectFilePath": "/Users/pcfviana/Documents/Repos/api_asp.net_core_ef_core/ProductCatalog/ProductCatalog.csproj",
   "expectedPackageFiles": [
+    "/Users/pcfviana/.nuget/packages/flunt/1.0.5/flunt.1.0.5.nupkg.sha512",
     "/Users/pcfviana/.nuget/packages/microsoft.aspnetcore.antiforgery/2.2.0/microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "/Users/pcfviana/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "/Users/pcfviana/.nuget/packages/microsoft.aspnetcore.authentication.core/2.2.0/microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

@@ -129,3 +129,4 @@
 /Users/pcfviana/Documents/Repos/api_asp.net_core_ef_core/ProductCatalog/obj/Debug/netcoreapp3.1/ProductCatalog.RazorAssemblyInfo.cache
 /Users/pcfviana/Documents/Repos/api_asp.net_core_ef_core/ProductCatalog/obj/Debug/netcoreapp3.1/ProductCatalog.RazorAssemblyInfo.cs
 /Users/pcfviana/Documents/Repos/api_asp.net_core_ef_core/ProductCatalog/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/pcfviana/Documents/Repos/api_asp.net_core_ef_core/ProductCatalog/bin/Debug/netcoreapp3.1/Flunt.dll
